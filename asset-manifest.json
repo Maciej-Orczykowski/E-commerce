@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/E-commerce/static/css/main.58e3edc2.css",
+    "main.js": "/E-commerce/static/js/main.2b2b56d2.js",
+    "static/js/787.46493d11.chunk.js": "/E-commerce/static/js/787.46493d11.chunk.js",
+    "static/media/Asia.jpg": "/E-commerce/static/media/Asia.919b8bca07826ade3743.jpg",
+    "static/media/background.jpg": "/E-commerce/static/media/background.e2e3242724dcf93bf05d.jpg",
+    "static/media/GreatSouth.jpeg": "/E-commerce/static/media/GreatSouth.c1004bb0c9a334d707c7.jpeg",
+    "static/media/NearEast.jpg": "/E-commerce/static/media/NearEast.c3689b206424e50df000.jpg",
+    "static/media/DreamlikeThailand.jpg": "/E-commerce/static/media/DreamlikeThailand.179c1283801ac58cc556.jpg",
+    "static/media/WishConcert.jpg": "/E-commerce/static/media/WishConcert.3c20bde0e9e0a4f1a645.jpg",
+    "static/media/BrazilianDespacito.jpg": "/E-commerce/static/media/BrazilianDespacito.d266e0e0c0afc73a0edb.jpg",
+    "static/media/LandOfFire.jpg": "/E-commerce/static/media/LandOfFire.bdf7eefc5f2aa9659af5.jpg",
+    "static/media/AmericaNorthAndSouth.jpg": "/E-commerce/static/media/AmericaNorthAndSouth.7b259727cb6a86eeaae5.jpg",
+    "static/media/BatumiHerbatumi.jpg": "/E-commerce/static/media/BatumiHerbatumi.a7546112869b5ef28643.jpg",
+    "static/media/Europe.jpg": "/E-commerce/static/media/Europe.1608be03916de24e09e5.jpg",
+    "static/media/CastlesAndDragons.jpg": "/E-commerce/static/media/CastlesAndDragons.e5b41b35f87b76e38a2f.jpg",
+    "static/media/MayThereAlwaysBeSun.jpg": "/E-commerce/static/media/MayThereAlwaysBeSun.4c3b3ff91ac52cffae6e.jpg",
+    "static/media/OrientExpress.jpg": "/E-commerce/static/media/OrientExpress.22442979524554347f00.jpg",
+    "static/media/GodsAndPharaons.jpg": "/E-commerce/static/media/GodsAndPharaons.f50b2214c63d2c700307.jpg",
+    "static/media/NaturallyBeautifulCanada.jpg": "/E-commerce/static/media/NaturallyBeautifulCanada.4a44af79e5f6199d50ee.jpg",
+    "static/media/Africa.jpg": "/E-commerce/static/media/Africa.a457873c142b72fbbf83.jpg",
+    "static/media/AmericanDream.jpg": "/E-commerce/static/media/AmericanDream.0e35b6d0e5e4a44a3c97.jpg",
+    "static/media/earth.svg": "/E-commerce/static/media/earth.a7f1b6f5533908c7e17e314cc4454971.svg",
+    "static/media/icon.svg": "/E-commerce/static/media/icon.90abc08be6cd84a7d9778da3c05a304e.svg",
+    "static/media/banknote.svg": "/E-commerce/static/media/banknote.e860b8a45081c3730a2e2e42c9946389.svg",
+    "index.html": "/E-commerce/index.html",
+    "static/media/plane.svg": "/E-commerce/static/media/plane.1b1aa903309ec64876fcfc8c7f797766.svg",
+    "static/media/calendar.svg": "/E-commerce/static/media/calendar.f900ae4d21fe30b9dfd40910b993bfa2.svg",
+    "static/media/cutlery.svg": "/E-commerce/static/media/cutlery.9f522a3ae89d14291ee2c5e56ad8e1a8.svg",
+    "static/media/clock.svg": "/E-commerce/static/media/clock.f8c2530cbb2011b7adcf3828f2448a01.svg",
+    "main.58e3edc2.css.map": "/E-commerce/static/css/main.58e3edc2.css.map",
+    "main.2b2b56d2.js.map": "/E-commerce/static/js/main.2b2b56d2.js.map",
+    "787.46493d11.chunk.js.map": "/E-commerce/static/js/787.46493d11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58e3edc2.css",
+    "static/js/main.2b2b56d2.js"
+  ]
+}
