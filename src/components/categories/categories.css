@@ -1,0 +1,60 @@
+.All-Categories {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  color: black;
+  margin-top: 3.9%;
+  margin-bottom: 3%;
+  width: 100%;
+  font-size: 35px;
+}
+
+.Category {
+  width: 23.01%;
+  margin-top: 4%;
+  margin-left: 7.5%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border: 2px solid rgb(0, 0, 0);
+  border-radius: 15px;
+}
+
+.Image-Category {
+  width: 99.9%;
+  height: 300px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  border-left: 2px solid rgb(0, 0, 0);
+  border-right: 2px solid rgb(0, 0, 0);
+  border-bottom: 3px solid rgb(0, 0, 0);
+}
+
+.Category-Button {
+  color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  text-decoration: none;
+  height: 13%;
+  width: 438px;
+  font-size: 35px;
+  font-family: Didot, serif;
+  border: none;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.6);
+  transition: background-color 300ms linear;
+  -webkit-transition: background-color 300ms linear;
+  -ms-transition: background-color 300ms linear;
+  -o-transition: background-color 300ms linear;
+  -ms-transition: background-color 300ms linear;
+}
+
+.Category-Button:hover {
+  background-color: rgba(209, 208, 208, 0.74);
+}
